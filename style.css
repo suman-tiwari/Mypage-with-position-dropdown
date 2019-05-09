@@ -1,0 +1,14 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+.wrapper{
+	width:100%;
+	height:auto;
+	border:1px solid black;
+}
+
+.nav{
+	border:1px solid red;
+}
